@@ -17,5 +17,5 @@ To set up this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   https://github.com/Drsultanali/python-chatbot.git
+   git clone https://github.com/Drsultanali/python-chatbot.git
    cd your-repo-name
